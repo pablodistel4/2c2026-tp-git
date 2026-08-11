@@ -1,5 +1,5 @@
 # Presentación
-Hola! Mi nombre es [Pablo Distel].
+Hola! Mi nombre es Pablo Distel.
 
 En mi tiempo libre me gusta jugar a la compu e ir al gym.
 
